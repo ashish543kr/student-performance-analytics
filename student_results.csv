@@ -1,0 +1,101 @@
+Student_ID,Name,Department,Python,Mathematics,English,Computer_Science,Statistics,Attendance,Total,Average,Grade,Result,Attendance_Status
+STU001,Aarav Jain,ME,73,80,89,72,72,99,386,77.2,B,Pass,Eligible
+STU002,Vivaan Chauhan,CSE,73,83,73,73,80,60,382,76.4,B,Pass,Low Attendance
+STU003,Aditya Verma,ME,39,35,48,36,31,98,189,37.8,F,Fail,Eligible
+STU004,Vihaan Patel,CSE,65,50,59,66,53,86,293,58.6,D,Pass,Eligible
+STU005,Arjun Srivastava,ME,57,54,78,60,49,91,298,59.6,D,Pass,Eligible
+STU006,Sai Singh,CSE,54,32,38,54,59,83,237,47.4,F,Fail,Eligible
+STU007,Reyansh Shukla,Civil,63,51,59,61,77,85,311,62.2,C,Pass,Eligible
+STU008,Ayaan Dubey,IT,48,41,38,51,55,92,233,46.6,F,Pass,Eligible
+STU009,Krishna Gupta,Civil,53,60,66,52,55,69,286,57.2,D,Pass,Low Attendance
+STU010,Ishaan Agarwal,IT,60,66,51,62,56,74,295,59.0,D,Pass,Low Attendance
+STU011,Shaurya Rana,Civil,88,72,88,46,80,82,374,74.8,B,Pass,Eligible
+STU012,Atharv Yadav,IT,65,44,61,67,78,76,315,63.0,C,Pass,Eligible
+STU013,Dhruv Tiwari,Civil,52,66,60,52,62,83,292,58.4,D,Pass,Eligible
+STU014,Kabir Malhotra,ECE,73,77,76,65,83,84,374,74.8,B,Pass,Eligible
+STU015,Ritvik Mishra,AI & DS,65,53,63,64,60,80,305,61.0,C,Pass,Eligible
+STU016,Ananya Saxena,ECE,92,74,75,72,54,81,367,73.4,B,Pass,Eligible
+STU017,Diya Joshi,AI & DS,93,66,71,68,57,94,355,71.0,B,Pass,Eligible
+STU018,Aadhya Kumar,ECE,85,68,91,63,83,100,390,78.0,B,Pass,Eligible
+STU019,Saanvi Pandey,AI & DS,49,56,50,39,55,70,249,49.8,F,Pass,Low Attendance
+STU020,Myra Sharma,ECE,64,89,66,70,82,68,371,74.2,B,Pass,Low Attendance
+STU021,Ira Jain,CSE,84,54,72,73,78,68,361,72.2,B,Pass,Low Attendance
+STU022,Anika Chauhan,ME,56,53,53,54,44,84,260,52.0,D,Pass,Eligible
+STU023,Kavya Verma,CSE,64,90,76,59,78,71,367,73.4,B,Pass,Low Attendance
+STU024,Riya Patel,ME,89,70,87,82,86,100,414,82.8,A,Pass,Eligible
+STU025,Pihu Srivastava,CSE,57,55,56,64,68,85,300,60.0,C,Pass,Eligible
+STU026,Meera Singh,ME,78,93,76,100,85,72,432,86.4,A,Pass,Low Attendance
+STU027,Navya Shukla,CSE,58,51,61,58,53,72,281,56.2,D,Pass,Low Attendance
+STU028,Sara Dubey,Civil,43,56,50,35,50,86,234,46.8,F,Pass,Eligible
+STU029,Aarohi Gupta,IT,58,57,45,60,62,93,282,56.4,D,Pass,Eligible
+STU030,Prisha Agarwal,Civil,67,72,86,86,86,100,397,79.4,B,Pass,Eligible
+STU031,Tanvi Rana,IT,86,84,81,72,83,73,406,81.2,A,Pass,Low Attendance
+STU032,Kiara Yadav,Civil,60,65,88,46,71,64,330,66.0,C,Pass,Low Attendance
+STU033,Nisha Tiwari,IT,72,62,51,54,68,73,307,61.4,C,Pass,Low Attendance
+STU034,Sneha Malhotra,Civil,71,64,92,77,50,84,354,70.8,B,Pass,Eligible
+STU035,Priya Mishra,ECE,67,51,58,64,68,68,308,61.6,C,Pass,Low Attendance
+STU036,Rahul Saxena,AI & DS,58,57,81,67,51,92,314,62.8,C,Pass,Eligible
+STU037,Rohan Joshi,ECE,100,80,90,100,88,86,458,91.6,A+,Pass,Eligible
+STU038,Kunal Kumar,AI & DS,68,77,45,67,75,68,332,66.4,C,Pass,Low Attendance
+STU039,Aman Pandey,ECE,74,84,90,100,74,94,422,84.4,A,Pass,Eligible
+STU040,Nikhil Sharma,AI & DS,58,72,70,62,68,77,330,66.0,C,Pass,Eligible
+STU041,Sakshi Jain,ECE,76,85,57,90,49,80,357,71.4,B,Pass,Eligible
+STU042,Shreya Chauhan,CSE,78,69,73,70,69,91,359,71.8,B,Pass,Eligible
+STU043,Yash Verma,ME,65,81,75,80,78,72,379,75.8,B,Pass,Low Attendance
+STU044,Harsh Patel,CSE,68,66,60,61,73,75,328,65.6,C,Pass,Eligible
+STU045,Manav Srivastava,ME,73,72,86,83,83,96,397,79.4,B,Pass,Eligible
+STU046,Dev Singh,CSE,75,65,71,66,69,88,346,69.2,C,Pass,Eligible
+STU047,Tanya Shukla,ME,78,47,45,68,65,88,303,60.6,C,Pass,Eligible
+STU048,Ishita Dubey,CSE,76,67,76,69,85,80,373,74.6,B,Pass,Eligible
+STU049,Simran Gupta,Civil,54,61,51,49,59,84,274,54.8,D,Pass,Eligible
+STU050,Palak Agarwal,IT,56,63,46,47,54,79,266,53.2,D,Pass,Eligible
+STU051,Aarav Rana,Civil,86,80,70,71,62,81,369,73.8,B,Pass,Eligible
+STU052,Vivaan Yadav,IT,67,55,69,79,63,86,333,66.6,C,Pass,Eligible
+STU053,Aditya Tiwari,Civil,72,79,77,77,69,82,374,74.8,B,Pass,Eligible
+STU054,Vihaan Malhotra,IT,88,84,96,66,83,84,417,83.4,A,Pass,Eligible
+STU055,Arjun Mishra,Civil,88,88,90,75,91,73,432,86.4,A,Pass,Low Attendance
+STU056,Sai Saxena,ECE,73,88,79,64,60,87,364,72.8,B,Pass,Eligible
+STU057,Reyansh Joshi,AI & DS,69,62,46,33,64,80,274,54.8,D,Fail,Eligible
+STU058,Ayaan Kumar,ECE,68,78,84,84,79,88,393,78.6,B,Pass,Eligible
+STU059,Krishna Pandey,AI & DS,52,55,59,61,42,65,269,53.8,D,Pass,Low Attendance
+STU060,Ishaan Sharma,ECE,87,77,100,85,96,82,445,89.0,A,Pass,Eligible
+STU061,Shaurya Jain,AI & DS,100,92,100,100,100,71,492,98.4,A+,Pass,Low Attendance
+STU062,Atharv Chauhan,ECE,87,59,65,56,74,89,341,68.2,C,Pass,Eligible
+STU063,Dhruv Verma,CSE,88,100,73,70,86,86,417,83.4,A,Pass,Eligible
+STU064,Kabir Patel,ME,46,66,54,74,71,71,311,62.2,C,Pass,Low Attendance
+STU065,Ritvik Srivastava,CSE,50,60,70,51,66,76,297,59.4,D,Pass,Eligible
+STU066,Ananya Singh,ME,56,47,52,45,77,82,277,55.4,D,Pass,Eligible
+STU067,Diya Shukla,CSE,61,57,56,65,66,76,305,61.0,C,Pass,Eligible
+STU068,Aadhya Dubey,ME,57,37,45,74,76,79,289,57.8,D,Pass,Eligible
+STU069,Saanvi Gupta,CSE,78,100,86,74,65,64,403,80.6,A,Pass,Low Attendance
+STU070,Myra Agarwal,Civil,63,56,64,59,87,91,329,65.8,C,Pass,Eligible
+STU071,Ira Rana,IT,82,68,59,83,73,70,365,73.0,B,Pass,Low Attendance
+STU072,Anika Yadav,Civil,56,51,74,84,51,88,316,63.2,C,Pass,Eligible
+STU073,Kavya Tiwari,IT,54,53,50,60,51,84,268,53.6,D,Pass,Eligible
+STU074,Riya Malhotra,Civil,64,58,61,74,72,71,329,65.8,C,Pass,Low Attendance
+STU075,Pihu Mishra,IT,76,52,74,62,74,73,338,67.6,C,Pass,Low Attendance
+STU076,Meera Saxena,Civil,28,45,47,35,50,63,205,41.0,F,Fail,Low Attendance
+STU077,Navya Joshi,ECE,55,60,67,58,63,93,303,60.6,C,Pass,Eligible
+STU078,Sara Kumar,AI & DS,68,49,65,74,35,73,291,58.2,D,Pass,Low Attendance
+STU079,Aarohi Pandey,ECE,73,79,69,76,73,94,370,74.0,B,Pass,Eligible
+STU080,Prisha Sharma,AI & DS,74,67,66,66,75,77,348,69.6,C,Pass,Eligible
+STU081,Tanvi Jain,ECE,92,80,68,83,67,59,390,78.0,B,Pass,Low Attendance
+STU082,Kiara Chauhan,AI & DS,36,51,55,71,58,79,271,54.2,D,Pass,Eligible
+STU083,Nisha Verma,ECE,56,81,86,63,90,85,376,75.2,B,Pass,Eligible
+STU084,Sneha Patel,CSE,68,85,64,65,58,72,340,68.0,C,Pass,Low Attendance
+STU085,Priya Srivastava,ME,70,79,74,83,82,93,388,77.6,B,Pass,Eligible
+STU086,Rahul Singh,CSE,58,51,56,65,68,71,298,59.6,D,Pass,Low Attendance
+STU087,Rohan Shukla,ME,92,83,98,71,66,62,410,82.0,A,Pass,Low Attendance
+STU088,Kunal Dubey,CSE,93,86,90,76,100,83,445,89.0,A,Pass,Eligible
+STU089,Aman Gupta,ME,76,74,71,61,74,100,356,71.2,B,Pass,Eligible
+STU090,Nikhil Agarwal,CSE,100,80,75,84,86,94,425,85.0,A,Pass,Eligible
+STU091,Sakshi Rana,Civil,61,44,41,35,29,91,210,42.0,F,Fail,Eligible
+STU092,Shreya Yadav,IT,56,56,65,85,66,65,328,65.6,C,Pass,Low Attendance
+STU093,Yash Tiwari,Civil,62,37,64,62,71,100,296,59.2,D,Pass,Eligible
+STU094,Harsh Malhotra,IT,79,71,100,83,82,81,415,83.0,A,Pass,Eligible
+STU095,Manav Mishra,Civil,69,64,65,70,65,74,333,66.6,C,Pass,Low Attendance
+STU096,Dev Saxena,IT,66,84,42,80,81,59,353,70.6,B,Pass,Low Attendance
+STU097,Tanya Joshi,Civil,59,49,55,52,81,92,296,59.2,D,Pass,Eligible
+STU098,Ishita Kumar,ECE,91,73,79,89,72,89,404,80.8,A,Pass,Eligible
+STU099,Simran Pandey,AI & DS,61,71,69,61,76,70,338,67.6,C,Pass,Low Attendance
+STU100,Palak Sharma,ECE,81,72,79,63,85,79,380,76.0,B,Pass,Eligible
